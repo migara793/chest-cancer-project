@@ -9,7 +9,7 @@ __version__="0.0.0"
 
 REPO_NAME="chest-cancer-project"
 AUTHOR_USER_NAME="migara793"
-SRC_REPO="chest-cancer-project"
+SRC_REPO="chest_cancer_project"
 AUTHOR_EMAIL="migarasathsara37@gmail.com"
 
 
